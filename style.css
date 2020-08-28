@@ -1,0 +1,18 @@
+body{
+background-image: url("background.png");
+width: auto;
+}
+
+.titulo{
+    font-family: 'Londrina Solid', cursive;
+    font-size: 20vh;
+}
+
+.textocentrado{
+    text-align: center;
+}
+
+.botoncentrado{
+    display: flex;
+    justify-content: center;
+}
