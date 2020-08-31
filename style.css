@@ -12,7 +12,21 @@ width: auto;
     text-align: center;
 }
 
+.imagencentrado{
+    display:block;
+    margin:auto;
+}
+
 .botoncentrado{
     display: flex;
     justify-content: center;
+}
+
+.contenedorgrafico{
+    height: 300px; 
+    width: 100%;
+}
+
+.tamaño{
+    width: 25vh;
 }
